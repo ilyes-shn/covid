@@ -30,7 +30,7 @@ return (
       <input className="input" type="text" placeholder='Algeria' onChange={handleChange}/>
       <input className='btn' type='button' defaultValue='Search' onClick={search}/>
     </div>
-    {place !== '' && (<>
+    { place !== ''  &&  (<>
     <div className="data">
     <h2>{data.ActiveCases} : حالة جديدة</h2>
     <h2>{data.Death} : الوفيات</h2>

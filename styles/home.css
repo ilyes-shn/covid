@@ -70,6 +70,7 @@ body {
     padding: 20px;
     border-radius: 20px;
     font-family: 'Amiri', serif;
+    z-index: 3;
 }
 
 .app {
@@ -81,4 +82,5 @@ footer {
     bottom: 0;
     right: 0;
     padding: 10px;
+    opacity: 0.6;
 }
