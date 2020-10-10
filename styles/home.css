@@ -16,7 +16,7 @@ body {
 
 .title {
     color: white;
-    padding-left: 15px;
+    padding-left: 20px;
     font-size: 50px;
     margin-bottom: 20vh;
     margin-top: 10px;
@@ -70,4 +70,11 @@ body {
     padding: 20px;
     border-radius: 20px;
     font-family: 'Amiri', serif;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 10px;
 }
