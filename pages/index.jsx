@@ -22,7 +22,7 @@ const result = Axios.get(`https://coronavirus-19-api.herokuapp.com/countries/${p
 })
 }
 return (
-  <div>
+  <div className='app'>
 
     <h1 className='title'>Corona.</h1>
     <div className="field">

@@ -72,8 +72,12 @@ body {
     font-family: 'Amiri', serif;
 }
 
+.app {
+    height: 100vh;
+}
+
 footer {
-    position: absolute;
+    position: fixed;
     bottom: 0;
     right: 0;
     padding: 10px;
